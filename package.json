@@ -1,0 +1,7 @@
+{
+  "author": "Yelnur Zhazitov",
+  "version": "0.0.1",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
